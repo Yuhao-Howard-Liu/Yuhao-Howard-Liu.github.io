@@ -9,7 +9,7 @@ version: 2
 name: Yuhao Liu
 title: Ph.D. Candidate in Actuarial Science
 email: yuhao.liu@unsw.edu.au
- email_title: Email (Email title override)
+email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
