@@ -1,19 +1,11 @@
 # Education Template
-- layout: left
-  name: The University of New South Wales
-  dates: 2021-present
-  qualification: Ph.D. in Actuarial Science
-  quote: >
-    Thesis topic: Pricing in Incomplete Markets
-  description: | 
-    Advisors: Professor [Qihe Tang](https://scholar.google.com/citations?user=AA-OzMQAAAAJ&hl=en), Associate Professor [Jinxia Zhu](https://scholar.google.com/citations?user=hiCjOB0AAAAJ&hl=en) and Assistant Professor [Haibo Liu](https://www.researchgate.net/profile/Haibo-Liu-14)
-  
+
 - layout: left
   name: The University of New South Wales
   dates: 2016-2020
   qualification: Bachelor of Actuarial Studies (Honours Class I)|
-    Bachelor of Commerce
+  
+    Bachelor of Commerce (with Distinction)
   quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Majors: Actuarial studies and Accounting
+  description: 
